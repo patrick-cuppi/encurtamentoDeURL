@@ -11,7 +11,7 @@ async function setup() {
     `
     await sql.end()
 
-    console.log('Setup feito com sucesso!')
+    console.log('Setup is running!')
 }
 
 setup()
